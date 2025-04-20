@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Testing
+coverage/
+.nyc_output/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# OS specific
+.DS_Store
