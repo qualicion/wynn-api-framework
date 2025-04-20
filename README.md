@@ -8,6 +8,7 @@ A lightweight TypeScript framework for API testing using Jest and Supertest.
 1. Clone this repository:
    ```
    git clone https://github.com/qualicion/wynn-api-test
+   
    cd wynn-api-framework
    ```
 
