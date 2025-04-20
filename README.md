@@ -19,7 +19,7 @@ A lightweight TypeScript framework for API testing using Jest and Supertest.
 
 
 ## Project Structure
-
+```
 wynn-api-framework/
 ├── config/
 │   └── base.config.ts      # Base configuration settings
@@ -38,7 +38,7 @@ wynn-api-framework/
 ├── package-lock.json
 ├── package.json
 └── README.md
-
+```
 
 ## Running Tests
 
